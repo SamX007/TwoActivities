@@ -1,4 +1,4 @@
-package com.example.twoactivities;
+package com.example.twoactivitiescoding;
 
 import org.junit.Test;
 

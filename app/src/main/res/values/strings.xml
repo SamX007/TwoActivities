@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">TwoActivities</string>
+    <string name="app_name">Two Activity Coding Challenge</string>
+    <string name="first_text">Text One</string>
+    <string name="second_text">Text Two</string>
+    <string name="third_text">Text Three</string>
+    <string name="paragraph1">
+        An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.
+</string>
+    <string name="paragraph2">
+        A banana is an elongated, edible fruit – botanically a berry[1][2] – produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant.
+    </string>
+    <string name="paragraph3">
+Lychee[2] Litchi chinensis; Chinese: 荔枝; pinyin: lìzhī; Jyutping: lai6 zi1; Pe̍h-ōe-jī: nāi-chi) is the sole member of the genus Litchi in the soapberry family, Sapindaceae.
+It is a tropical tree native to the Guangdong and Fujian provinces of southeastern China, where cultivation is documented from the 11th century.[3] China is the main producer of lychees, followed by India, other countries in Southeast Asia, the Indian Subcontinent, Madagascar and South Africa.
+    </string>
+    <string name="button_key">TextView</string>
+    <string name="heading1">Apple</string>
+    <string name="heading2">Banana</string>
+    <string name="heading3">Litchi</string>
 </resources>
